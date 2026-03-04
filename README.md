@@ -1,5 +1,5 @@
 # shapes_connections
-### Preview: https://editor.p5js.org/dsshji/full/vbmN4aY4r 
+## Preview: https://editor.p5js.org/dsshji/full/vbmN4aY4r 
 ### Concept
 
 Generative art seems very modern and new to me: creating art using your computer and element of randomness sounds like something that has no association with older times.
